@@ -8,6 +8,7 @@
 
 # LSTM and TensorFlow: Advanced Time Series Analysis for Order Predictions
 Created by *Diogo Alves de Resende*
+
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) 
 
 ## Lab scenario
@@ -31,3 +32,6 @@ Now, dive into the orders.csv file and dissect its contents to feed into your LS
 - LSTM (Long Short-Term Memory)
 - Time Series Analysis
 - STL (Seasonal-Trend Decomposition using LOESS)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
