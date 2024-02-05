@@ -7,7 +7,8 @@
 [![Total Downloads](https://img.shields.io/github/downloads/debdattasarkar/Advanced-Time-Series-Analysis-for-Order-Predictions/total.svg)](https://github.com/debdattasarkar/Advanced-Time-Series-Analysis-for-Order-Predictions/releases/)
 
 # LSTM and TensorFlow: Advanced Time Series Analysis for Order Predictions
-- Created byDiogo Alves de Resende
+Created by *Diogo Alves de Resende*
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) 
 
 ## Lab scenario
 At Galactic Retailers Inc., the board is intrigued by the potential of leveraging data to maximize sales. As the newly appointed Manager of Analytics, you are handed a dataset that encapsulates the company's vast marketing and discount campaigns. The challenge? To discern patterns and forecast the efficacy of these investments in driving orders. The stakes are high; your insights will dictate Galactic Retailers' marketing strategy for the next fiscal year. Your acumen will be pivotal in ensuring that every dollar spent translates into tangible growth.
