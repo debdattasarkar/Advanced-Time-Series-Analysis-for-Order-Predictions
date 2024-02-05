@@ -1,5 +1,5 @@
 # LSTM and TensorFlow: Advanced Time Series Analysis for Order Predictions
-- Created byDiogo Alves de Resende
+    - Created byDiogo Alves de Resende
 
 ## Lab scenario
 At Galactic Retailers Inc., the board is intrigued by the potential of leveraging data to maximize sales. As the newly appointed Manager of Analytics, you are handed a dataset that encapsulates the company's vast marketing and discount campaigns. The challenge? To discern patterns and forecast the efficacy of these investments in driving orders. The stakes are high; your insights will dictate Galactic Retailers' marketing strategy for the next fiscal year. Your acumen will be pivotal in ensuring that every dollar spent translates into tangible growth.
@@ -10,15 +10,15 @@ I've noticed your knack for deep learning, and this project is right up your all
 Now, dive into the orders.csv file and dissect its contents to feed into your LSTM model. The sequential patterns of our investments and subsequent order rates should provide a fascinating landscape for LSTMs to operate. Beyond mere implementation, I'm expecting you to iterate and fine-tune the model to get the best predictive accuracy. Once you've got your results, I'll need a model file, of course, but also a clear report on your approach, observations, and any actionable insights derived from your predictions. It's a challenge, but I'm confident you're up for it. Let's forecast our future!
 
 ## Objectives
--- Design and train LSTM-based neural network models using the TensorFlow framework for time series forecasting.
--- Tune hyperparameters of an LSTM model for optimal performance in time series forecasting tasks.
--- Integrate dropout layers in LSTM architectures to prevent overfitting and improve generalization.
--- Describe the process of visualizing time series data using matplotlib, specifically focusing on trends, seasonality, and residuals.
--- Implement the seasonal-trend decomposition using LOESS (STL) to decompose a time series into its individual components.
--- Conduct a rolling forecast evaluation using a defined window of data to simulate real-world time series forecasting scenarios.
+    -- Design and train LSTM-based neural network models using the TensorFlow framework for time series forecasting.
+    -- Tune hyperparameters of an LSTM model for optimal performance in time series forecasting tasks.
+    -- Integrate dropout layers in LSTM architectures to prevent overfitting and improve generalization.
+    -- Describe the process of visualizing time series data using matplotlib, specifically focusing on trends, seasonality, and residuals.
+    -- Implement the seasonal-trend decomposition using LOESS (STL) to decompose a time series into its individual components.
+    -- Conduct a rolling forecast evaluation using a defined window of data to simulate real-world time series forecasting scenarios.
 
 ## Skills
--- TensorFlow
--- LSTM (Long Short-Term Memory)
--- Time Series Analysis
--- STL (Seasonal-Trend Decomposition using LOESS)
+    -- TensorFlow
+    -- LSTM (Long Short-Term Memory)
+    -- Time Series Analysis
+    -- STL (Seasonal-Trend Decomposition using LOESS)
