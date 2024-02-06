@@ -8,6 +8,7 @@
 
 # LSTM and TensorFlow: Advanced Time Series Analysis for Order Predictions
 Created by *Diogo Alves de Resende*
+
 <a href="https://www.udemy.com/labs/lstm-and-tensorflow-advanced-time-series-analysis-for-order-predictions/overview/">
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) 
 </a>
